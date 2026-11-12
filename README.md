@@ -50,7 +50,10 @@ A free, open-source Quran memorization app. You recite from memory, and it liste
 
 ## How I work
 
-I try to finish projects properly: automated tests, CI on every push, written documentation and clear setup guides.
+- **Research:** understand the field first. For ReWeave, a semester of fieldwork in Malegaon's textile cluster.
+- **Plan:** decide the scope, data model and architecture before building.
+- **Build:** step by step, with automated tests and CI.
+- **Verify and document:** check against the real system, then write setup guides others can follow.
 
 ## Research
 

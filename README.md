@@ -50,7 +50,7 @@ A free, open-source Quran memorization app. You recite from memory, and it liste
 
 ## How I work
 
-I use AI coding tools such as Claude Code and OpenAI Codex. I write the context first (a product spec, the architecture and the coding rules), let the tool build against it, then check the result with tests, CI and by reading the code.
+I try to finish projects properly: automated tests, CI on every push, written documentation and clear setup guides.
 
 ## Research
 

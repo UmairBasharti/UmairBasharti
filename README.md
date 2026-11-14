@@ -34,7 +34,7 @@ A placement portal for a college. Students upload a resume and get jobs ranked b
 <a href="https://github.com/UmairBasharti/hifzquran"><img src="assets/hifzai.webp" alt="HifzAI"></a><br>
 <b>HifzAI</b><br>
 A free, open-source Quran memorization app. You recite from memory, and it listens, hides the text and flags mistakes word by word.<br>
-<sub>Next.js 16, FastAPI, faster-whisper, WebSocket. CI on four jobs, tested from a clean download.</sub><br>
+<sub>Next.js 16, FastAPI, faster-whisper (Tarteel AI's open-source Quran model), WebSocket. CI on four jobs, tested from a clean download.</sub><br>
 <a href="https://github.com/UmairBasharti/hifzquran">Repository</a>
 </td>
 </tr>
